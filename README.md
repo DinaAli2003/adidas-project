@@ -1,4 +1,4 @@
-# adidas-project
+# adidas-project (using PowerBI)
 
 Adidas Sales and Profit Dashboard
 📌 Project Overview
